@@ -4,3 +4,9 @@ redis:latest
 postgres:18
 busybox:latest
 rockylinux:9
+docker pull prom/alertmanager:v0.29.0
+docker pull prom/prometheus:v3.8.0
+docker pull prom/node-exporter:v1.10.2
+docker pull prom/mysqld-exporter:v0.18.0
+docker pull grafana/grafana:12.1
+docker pull grafana/loki:latest
