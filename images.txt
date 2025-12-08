@@ -1,6 +1,6 @@
-docker pull prom/alertmanager:v0.29.0
-docker pull prom/prometheus:v3.8.0
-docker pull prom/node-exporter:v1.10.2
-docker pull prom/mysqld-exporter:v0.18.0
-docker pull grafana/grafana:12.1
-docker pull grafana/loki:latest
+prom/alertmanager:v0.29.0
+prom/prometheus:v3.8.0
+prom/node-exporter:v1.10.2
+prom/mysqld-exporter:v0.18.0
+grafana/grafana:12.1
+grafana/loki:latest
