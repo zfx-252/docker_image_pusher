@@ -1,6 +1,1 @@
-prom/alertmanager:v0.29.0
-prom/prometheus:v3.8.0
-prom/node-exporter:v1.10.2
-prom/mysqld-exporter:v0.18.0
-grafana/grafana:12.1
-grafana/loki:latest
+rockylinux:9.6
